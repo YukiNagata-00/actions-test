@@ -1,1 +1,1 @@
-console.com('hello');
+console.com('test CI');
